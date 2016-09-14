@@ -1,0 +1,6 @@
+framework module Pods_XMPPFileTransfer {
+  umbrella header "Pods-XMPPFileTransfer-umbrella.h"
+
+  export *
+  module * { export * }
+}
