@@ -1,0 +1,2 @@
+# XMPPFileTransfer
+XMPPFileTransfer for Swift
